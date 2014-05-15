@@ -8,3 +8,18 @@ url: "http://christopherwalters.github.io/booksprung"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Default YAML settings
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "posts"
+      type: "post"
+    values:
+      layout: "post" # overrides previous default layout
+      author: "Chris Walters"
