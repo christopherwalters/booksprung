@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "This is my first post!"
+date:   2014-05-15 18:10:00
+categories: 
+---
+
 #This is my first post
 
 ## I hope it looks nice
