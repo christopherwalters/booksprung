@@ -3,7 +3,7 @@ title: Booksprung
 email: chris@booksprung.com
 description: "a notebook about digital publishing"
 baseurl: "/booksprung"
-url: "http://yourdomain.com"
+url: "http://christopherwalters.github.io/booksprung"
 
 # Build settings
 markdown: kramdown
