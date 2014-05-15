@@ -2,7 +2,7 @@
 title: Booksprung
 email: chris@booksprung.com
 description: "a notebook about digital publishing"
-baseurl: "/booksprung"
+baseurl: ""
 url: "http://yourdomain.com"
 
 # Build settings
