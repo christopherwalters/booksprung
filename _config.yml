@@ -4,6 +4,7 @@ email: chris@booksprung.com
 description: "a notebook about digital publishing"
 baseurl: "/booksprung"
 url: "http://christopherwalters.github.io/booksprung"
+excerpt_separator: "<!-- more -->"
 
 # Build settings
 markdown: kramdown

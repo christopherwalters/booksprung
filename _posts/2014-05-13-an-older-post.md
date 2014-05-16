@@ -8,7 +8,7 @@ categories: posts
 #What makes this post an older post?
 
 A few things:
-
+<!-- more -->
 * an older creation date
 * no, just that
 
