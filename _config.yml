@@ -1,5 +1,7 @@
 # Site settings
 title: Booksprung
+username: christopherwalters
+twittername: booksprung
 email: chris@booksprung.com
 description: "a notebook about digital publishing"
 baseurl: "/booksprung"
