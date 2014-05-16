@@ -9,14 +9,32 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  color: #393939;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
   background-color: #fdfdfd;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #333;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0em;
+  word-spacing: 0em;
+  line-height: 1.4;
+}
+
+h1 {
+    font-style: italic;
+}
+
+/* h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; } */
 
 a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
