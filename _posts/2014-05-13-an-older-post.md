@@ -9,6 +9,7 @@ categories: posts
 
 A few things:
 <!-- more -->
+
 * an older creation date
 * no, just that
 
